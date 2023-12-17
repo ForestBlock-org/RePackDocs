@@ -1,6 +1,6 @@
 # Language statements
 Language statements are used to change texts of a minecraft language file. Syntax:
-```rs
+```cpp
 lang {
     "en_*" 
     // wildcards are supported; this matches en_pt, en_ud, en_us, en_ca, en_gb, en_nz
