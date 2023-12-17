@@ -1,6 +1,6 @@
 # Character statements
 Character statements are used to set the texture of any character in the minecraft font to any image. Syntax:
-```rs
+```cpp
 char "\uAAAA" "textures/characters/custom_character.png" {
     "ascent" = "7"
 }
